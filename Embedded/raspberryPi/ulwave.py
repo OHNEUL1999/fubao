@@ -9,9 +9,9 @@ ECHO = 23
 
 sensor = DistanceSensor(echo=ECHO, trigger=TRIGGER)
 
-mqtt_broker = "192.168.219.131"
+mqtt_broker = "브로커 IP"
 mqtt_port = 1883
-mqtt_topic = "esp8266_test/led/command"
+mqtt_topic = "토픽"
 
 led_state = False
 
