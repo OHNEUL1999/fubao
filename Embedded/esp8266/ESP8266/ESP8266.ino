@@ -6,9 +6,9 @@ int led_state = 1;
 long last_send_time = 0;
 char publish_msg[16];
 
-const char* WIFI_SSID = "U+Net249B";
-const char* WIFI_PW = "1000003511";
-const char* MQTT_BROKER_ADDR = "192.168.219.131";
+const char* WIFI_SSID = "wifi 이름";
+const char* WIFI_PW = "wifi 비밀번호";
+const char* MQTT_BROKER_ADDR = "브로커 IP";
 const int   MQTT_BROKER_PORT = 1883;
 //const char* MQTT_ID = "당신의 MQTT Broker ID"; // optional
 //const char* MQTT_PW = "당신의 MQTT Broker Password";  // optional
