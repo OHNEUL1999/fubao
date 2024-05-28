@@ -105,7 +105,7 @@
   ![image](/docs/erd.png)
 
 - Architecture<br/>
-  ![image](/docs/architecture.png)
+  ![image](/docs/Architecture.png)
 
 - CI/CD<br/>
   ![image](/docs/cicd.png)
